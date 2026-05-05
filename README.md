@@ -1,3 +1,3 @@
 # Cloud-Monitoring-And-Alert
 
-Cloud monitoring and alerting system project covering real-time monitoring, performance tracking, and automated alert mechanisms in cloud environments.
+This repository contains a project on Cloud Monitoring and Alerting systems. It explains how cloud infrastructure can be monitored in real time and how alerts are generated when performance thresholds are exceeded.
